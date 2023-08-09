@@ -1,0 +1,16 @@
+[
+  {
+      "kod": "0126623",
+      "nazev": "BETAHISTIN-ratiopharm 24mg por.tbl.nob.60x24mg",
+      "pocet": 20,
+      "objednat": true,
+      "stav": "V\u00fdpadek"
+  },
+  {
+      "kod": "0232871",
+      "nazev": "ALERGIMED 5mg tbl.flm.50",
+      "pocet": 2,
+      "objednat": false,
+      "stav": "Dostupn\u0102\u00a9"
+  }
+]
